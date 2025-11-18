@@ -1,5 +1,3 @@
-# selfStudyCMU-17-214
-
 # Jornada de Engenharia de Software: Padrões, Design e Construção
 
 Bem-vindo ao meu repositório de estudos avançados em Engenharia de Software.
